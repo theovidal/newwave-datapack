@@ -1,0 +1,1 @@
+{"global":{"admin":{"$func":["prompt","prompt"]}},"totem":{"admin":{"$func":["creation_tools","prompt"]},"game_loop":{"$func":["chest_filler"]}}}

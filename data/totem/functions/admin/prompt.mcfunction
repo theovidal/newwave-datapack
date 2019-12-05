@@ -1,0 +1,1 @@
+tellraw @a[team=manager] ["",{"text":"[","color":"white"},{"text":"TOTEM","color":"dark_aqua"},{"text":"]","color":"white"},{"text":"\n-> "},{"text":"Obtenir les outils de création de carte","clickEvent":{"action":"run_command","value":"/function totem:admin/creation_tools"}}]
