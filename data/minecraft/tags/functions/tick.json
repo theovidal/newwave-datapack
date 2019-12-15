@@ -1,3 +1,11 @@
 {
-  "values": ["global:loop", "totem:loop"]
+  "values": [
+    "global:loop",
+
+    "duel:loop",
+    "ffa:loop",
+    "hikabrain:loop",
+    "tntrun:loop",
+    "totem:loop"
+  ]
 }

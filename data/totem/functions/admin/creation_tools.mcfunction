@@ -1,1 +1,1 @@
-give @a[team=manager] armor_stand{display:{Name:'{"text":"totem_chest-filler-1/2"}'}} 1
+give @a[team=admin] armor_stand{display:{Name:'{"text":"totem_chest-filler-1/2"}'}} 1
