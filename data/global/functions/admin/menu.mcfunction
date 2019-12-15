@@ -1,0 +1,3 @@
+tellraw @a[team=admin] ["",{"text":"[","color":"white"},{"text":"CENTRE DE GESTION","color":"dark_red"},{"text":"]","color":"white"},{"text":"\n-> Action à définir"}]
+summon command_block_minecart 0 40 0 {Tags:["delay"],PortalCooldown:3,Command:"scoreboard players set Global admin.menu 1"}
+summon command_block_minecart 0 40 0 {Tags:["delay"],PortalCooldown:4,Command:"scoreboard players set Global admin.menu 0"}

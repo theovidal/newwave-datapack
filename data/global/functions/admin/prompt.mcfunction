@@ -1,2 +1,0 @@
-tellraw @a[team=manager] ["",{"text":"[","color":"white"},{"text":"CENTRE DE GESTION","color":"dark_red"},{"text":"]","color":"white"},{"text":"\n-> Action à définir"}]
-execute at @a[team=manager] run function totem:admin/prompt
