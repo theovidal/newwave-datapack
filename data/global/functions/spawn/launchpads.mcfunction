@@ -1,0 +1,1 @@
+execute at @e[type=minecraft:armor_stand,tag=pads.launchpad.spawn.pvp] run data modify entity @e[type=minecraft:armor_stand,tag=pads.launchpad.guide,distance=..1,limit=1] Motion set value [-3.4d, 2d, -3.8d]
